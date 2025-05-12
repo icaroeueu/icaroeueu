@@ -2,7 +2,7 @@
 ## About me 😁
 My name is Icaro Loureiro.
 
-i´m studing systems analysis and development., getting better and improving my knowledge every day.
+i´m studing systems analysis and development, getting better and improving my knowledge every day.
 ## 🤖 SKILLS 🤖
 
  - <img align="center" alt="Icaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Java script
